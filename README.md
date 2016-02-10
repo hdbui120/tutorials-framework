@@ -1,3 +1,3 @@
-# frc-2015
+# tutorials-framework
 
-Team 2485's Java code for the 2015 FRC game, Recycle Rush. Highlights of the code include the SequencerFactory, which enables the fast creation of autonomous routines, and omni-directional strafing with an H-Drive system. 
+Basic code structure for a robot. If you would like to follow along with our programming tutorials, you can clone this repo. 
